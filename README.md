@@ -31,7 +31,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **João Arnaud**
 - GitHub: [@JoaoArnaud](https://github.com/JoaoArnaud)
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/joaoarnaud)
+- LinkedIn: [João André](https://linkedin.com/in/joaoarnaud)
 
 ## 🙏 Agradecimentos
 
