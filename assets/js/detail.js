@@ -48,8 +48,4 @@ function loadPokemonDetail(id) {
     });
 }
 
-if (pokemonId) {
-    loadPokemonDetail(pokemonId);
-} else {
-    document.getElementById('pokemonDetail').innerHTML = '<p>Pokémon não encontrado.</p>';
-}
+loadPokemonDetail(pokemonId);
